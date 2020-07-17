@@ -43,7 +43,8 @@ I set up a test environment (Light-weight http server( did not have to do anythi
 ## Testing write-up
 I tested all the links to make sure there was no broken links.
 Visual inspection was executed for typos and a proper display of html elements. 
-System Test was executing to make sure dropdown pages were rendered in accordance to design intent. 
+System Test was executing to make sure dropdown pages were rendered in accordance to design intent.
+Google map API failed to work becuase i have to pay to use Google map service 
 
 ## Readme file
 Confirmed
